@@ -36,7 +36,7 @@ STAT5206 - Fall 2022
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
-|2022-09-09|Introduction + python as a calculator|- [Python concepts 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.md)<br>- [Software Carpentry - Python Fundamentals + Analyzing Patient Data](https://swcarpentry.github.io/python-novice-inflammation/)<br>- [Python Data Science Handbook Chapter 2: Understanding Data Types in Python to The Basics of Numpy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/)||
+|2022-09-09|Introduction + python as a calculator|- [Python concepts 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)<br>- [Software Carpentry - Python Fundamentals + Analyzing Patient Data](https://swcarpentry.github.io/python-novice-inflammation/)<br>- [Python Data Science Handbook Chapter 2: Understanding Data Types in Python to The Basics of Numpy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |2022-09-16|Numpy, objects, and subsetting<br>AB Testing|[Python concepts 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|[Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
 |2022-09-23|For-loop, if/else, working with files,<br>AB testing assignment|[Python concepts 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW1 Due|
 |2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|||

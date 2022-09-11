@@ -25,28 +25,26 @@ STAT5206 - Fall 2022
 
 ### Textbooks and references
 - **Google!**
-- [Python concept notes](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- Basics only - [Programming with Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
-- [LearningPython.org](https://www.learnpython.org/)
-- Designing Data-Intensive Applications by Martin Kleppmann (available in NYPL)
-
+- Basics only - [Programming with Python by Software Carpentry (PPSC)](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Python concept notes (PCN)](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
+- [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [LearningPython.org (LP)](https://www.learnpython.org/)
 
 ## (tentative) Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
-|2022-09-09|Introduction + python as a calculator|- [Python concepts 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)<br>- [Software Carpentry - Python Fundamentals + Analyzing Patient Data](https://swcarpentry.github.io/python-novice-inflammation/)<br>- [Python Data Science Handbook Chapter 2: Understanding Data Types in Python to The Basics of Numpy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|2022-09-16|Numpy, objects, and subsetting<br>AB Testing|[Python concepts 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|[Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
-|2022-09-23|For-loop, if/else, working with files,<br>AB testing assignment|[Python concepts 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW1 Due|
+|2022-09-09|-Introduction <br>- Python 101-1 (Variable 1, Data Type) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
+|2022-09-16|Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS|[PCN Chapter 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|[Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
+|2022-09-23|For-loop, if/else, working with files,<br>AB testing assignment|[PCN Chapter 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW1 Due|
 |2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|||
 |2022-10-07|Nested data and data wrangling<br>Basic data engineering||HW2 Due|
-|2022-10-14|Regular expression and interacting with APIs|[Python concepts 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-10-21|Designing data pipelines|All previous Python concepts|HW3 Due|
+|2022-10-14|Regular expression and interacting with APIs|[PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-10-21|Designing data pipelines|All previous PCN Chapter|HW3 Due|
 |2022-10-28|Midterm|||
-|2022-11-04|Data use cases, relational data, and SQL<br>Data quality concepts and data engineering|[Python concepts 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-11|Modeling data<br>"Data science methods"|[Python concepts 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-18|Optimization<br>Objective functions|[Python concepts 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW4 Due|
+|2022-11-04|Data use cases, relational data, and SQL<br>Data quality concepts and data engineering|[PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-11|Modeling data<br>"Data science methods"|[PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-18|Optimization<br>Objective functions|[PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW4 Due|
 |2022-11-25|Thanksgiving NO CLASS|||
 |2022-12-02|Bootstrap, permutation, and other simulations<br>Model evaluation|||
 |2022-12-09|Validation||HW5 Due|

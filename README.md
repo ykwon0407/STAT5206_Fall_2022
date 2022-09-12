@@ -34,8 +34,8 @@ STAT5206 - Fall 2022
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
-|2022-09-09|-Introduction <br>- Python 101-1 (Variable 1, Data Type) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|2022-09-16|Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS|[PCN Chapter 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|[Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
+|2022-09-09|- Introduction <br>- Python 101-1 (Variable 1, Function, Package) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
+|2022-09-16|- Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS|[PCN Chapter 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|[Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
 |2022-09-23|For-loop, if/else, working with files,<br>AB testing assignment|[PCN Chapter 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|HW1 Due|
 |2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|||
 |2022-10-07|Nested data and data wrangling<br>Basic data engineering||HW2 Due|

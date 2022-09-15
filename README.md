@@ -34,10 +34,10 @@ STAT5206 - Fall 2022
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
-|2022-09-09|- Introduction <br>- Python 101-1 (Variable 1, Function, Package) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 10, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|2022-09-16|- Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS|- [PCN Chapter 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)||
-|2022-09-23|For-loop, if/else, working with files,<br>AB testing assignment|[PCN Chapter 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
-|2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|||
+|2022-09-09|- Introduction <br>- Python 101-1 (Variable 1, Function, Package) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
+|2022-09-16|- Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS <br>- uni/bi-gram|- [PCN Chapter 5, 7, 9](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)||
+|2022-09-23|- Python 101-3 (if/else, File I/O) <br>- AB testing assignment|[PCN Chapter 10, 12](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
+|2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|[PCN Chapter 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-07|Nested data and data wrangling<br>Basic data engineering|||
 |2022-10-14|Regular expression and interacting with APIs|[PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-21|Designing data pipelines|All previous PCN Chapter||
@@ -59,7 +59,7 @@ Yongchan Kwon (yk3012)
   - Office Hours: By appointment
 
 Maria-Cristiana Girjau (mg4345)
-  - Office hours: TBA
+  - Office hours: Every Thursday 9:00AM - 11:00 AM at the 10th floor lounge, School of Social Work.
 
 ### Grading
 If your final grade is in [93-97), you will earn at least an A, [90-93) will earn at least an A-, [87-90) will earn at least a B+, etc. A grading curves may occur depending on the class performance but I will not curve downwards. I will not give out A+ for this class.

@@ -30,24 +30,24 @@ STAT5206 - Fall 2022
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## (last update: Sep 13th) Timeline
+## (last update: Sep 21st) Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
 |2022-09-09|- Introduction <br>- Python 101-1 (Variable 1, Function, Package) <br>- Numpy 1|- [PCN Chapter 1, 2, 3, 4, 6, 8, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |2022-09-16|- Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS <br>- uni/bi-gram|- [PCN Chapter 5, 7, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)||
-|2022-09-23|- Python 101-3 (if/else, File I/O) <br>- AB testing assignment|[PCN Chapter 9, 10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
-|2022-09-30|Pandas, summaries, and visualization<br>Exploratory data analysis|[PCN Chapter 12, 14, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-10-07|Nested data and data wrangling<br>Basic data engineering|||
+|2022-09-23|- Python 101-3 (if/else, File I/O, Exception handling) <br>- AB testing|[PCN Chapter 9, 10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
+|2022-09-30|- Pandas 1 (DataFrame, Merge, Timestamp) <br>- Basic data engineering <br>- COVID-19|[PCN Chapter 12, 14, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-10-07|- Pandas 2 (Data wrangling) <br>- Exploratory data analysis (matplotlib)|[PCN Chapter 12, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-14|Regular expression and interacting with APIs|[PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-21|Designing data pipelines|All previous PCN Chapter||
-|2022-10-28|Midterm|||
+|2022-10-28|Midterm (in class)|||
 |2022-11-04|Data use cases, relational data, and SQL<br>Data quality concepts and data engineering|[PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-11-11|Modeling data<br>"Data science methods"|[PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-18|Optimization<br>Objective functions|[PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-18|Optimization<br>Objective functions <br>Bootstrap, permutation, and other simulations|[PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-11-25|Thanksgiving NO CLASS|||
-|2022-12-02|Bootstrap, permutation, and other simulations<br>Model evaluation|||
-|2022-12-09|Validation|||
+|2022-12-02|Amazing guest lecture|||
+|2022-12-09|Validation <br>Model evaluation|||
 |TBD|Final|||
 
 

@@ -30,7 +30,7 @@ STAT5206 - Fall 2022
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## (last update: Sep 27th) Timeline
+## (last update: Oct 4th) Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -38,16 +38,16 @@ STAT5206 - Fall 2022
 |2022-09-16|- Python 101-2 (Variable 2, Loop) <br>- Numpy 2 <br>- OLS <br>- uni/bi-gram|- [PCN Chapter 5, 7, 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
 |2022-09-23|- Python 101-3 (if/else, File I/O, Exception handling) <br>- AB testing|- [PCN Chapter 9, 10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
 |2022-09-30|- Pandas 1 (DataFrame, Grouping) <br>- COVID-19|- [PCN Chapter 12, 14](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-10-07|- Pandas 2 (Merge, Timestamp) <br>- Visualization (matplotlib, seaborn) <br>- Data wrangling Exercise|- [PCN Chapter 12, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 (Oct 9th, 11:59 PM)|
-|2022-10-14|Regular expression and interacting with APIs|- [PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|
-|2022-10-21|Designing data pipelines|All previous PCN Chapter||
-|2022-10-28|Midterm (in class)|||
-|2022-11-04|Data use cases, relational data, and SQL<br>Data quality concepts and data engineering|- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-11|Modeling data<br>"Data science methods"|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-18|Optimization<br>Objective functions <br>Bootstrap, permutation, and other simulations|- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-25|Thanksgiving NO CLASS|||
-|2022-12-02|Amazing guest lecture|||
-|2022-12-09|Validation <br>Model evaluation|||
+|2022-10-07|- Pandas 2 (Merge, Timestamp) <br>- Visualization (matplotlib, seaborn) <br>- NYTimes|- [PCN Chapter 12, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|- HW2 (Oct 9th, 11:59 PM)|
+|2022-10-14|- Regular expression and interacting with APIs <br>- Data Wrangling Practice|- [PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-10-21|- Designing data pipelines|All previous PCN Chapter|- HW3 (TBA)|
+|2022-10-28|**Midterm (in class)**|||
+|2022-11-04|- Data use cases, relational data, and SQL <br>- Data quality concepts and data engineering|- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-11|- Modeling data <br>- "Data science methods"|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-18|- Optimization <br>- Objective functions <br>- Bootstrap, permutation, and other simulations|- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-25|**Thanksgiving NO CLASS**|||
+|2022-12-02|**Amazing guest lecture**|||
+|2022-12-09|- Validation <br>- Model evaluation|||
 |TBD|Final|||
 
 

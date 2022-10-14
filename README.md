@@ -30,7 +30,7 @@ STAT5206 - Fall 2022
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## (last update: Oct 13th) Timeline
+## (last update: Oct 14th) Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -39,8 +39,8 @@ STAT5206 - Fall 2022
 |2022-09-23|- Python 101-3 (if/else, File I/O, Exception handling) <br>- AB testing|- [PCN Chapter 9, 10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW0 (Sep 24th, 2:00 PM, NOT-GRADED) <br>- HW1 (Sep 25th, 11:59 PM)|
 |2022-09-30|- Pandas 1 (DataFrame, Grouping) <br>- COVID-19|- [PCN Chapter 12, 14](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-07|- Pandas 2 (Merge, Timestamp) <br>- Visualization (matplotlib, seaborn) |- [PCN Chapter 12, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html)|- HW2 (Oct 9th, 11:59 PM)|
-|2022-10-14|- Regular expression <br>- NYTimes <br>- Twitter|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-10-21|- Interacting with APIs |- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Oct 23rd, 11:59PM)|
+|2022-10-14|- Regular expression <br>- NYTimes |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-10-21|- Interacting with APIs <br>- Twitter |- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Oct 25th, 11:59PM)|
 |2022-10-28|**Midterm (in class)**|||
 |2022-11-04|- Data use cases, relational data, and SQL <br>- Data quality concepts and data engineering|- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-11-11|- Modeling data <br>- "Data science methods"|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||

@@ -30,7 +30,7 @@ STAT5206 - Fall 2022
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## (last update: Nov 1st) Timeline
+## (last update: Nov 7th) Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -42,8 +42,8 @@ STAT5206 - Fall 2022
 |2022-10-14|- Regular expression <br>- NYTimes |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-10-21|- Interacting with APIs <br>- Twitter |- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Oct 25th, 11:59PM)|
 |2022-10-28|**Midterm (in class)**|||
-|2022-11-04|- SQL |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|2022-11-11|- Modeling data <br>- "Data science methods"|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-04|- Midterm review <br>- SQL |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|2022-11-11|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |2022-11-18|- Optimization <br>- Objective functions <br>- Bootstrap, permutation, and other simulations|- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-11-25|**Thanksgiving NO CLASS**|||
 |2022-12-02|**Amazing guest lecture**|||

@@ -48,7 +48,7 @@ STAT5206 - Fall 2022
 |2022-11-25|**Thanksgiving NO CLASS**|||
 |2022-12-02|**Amazing guest lecture**||- HW5 (Dec 4th, 11:59 PM)|
 |2022-12-09|- Review |||
-|2022-12-16||**Final at 7:10 PM**|||
+|2022-12-16|**Final at 7:10 PM**|||
 
 
 ## Logistics

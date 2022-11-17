@@ -30,7 +30,7 @@ STAT5206 - Fall 2022
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## (last update: Nov 7th) Timeline
+## Timeline
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -44,11 +44,11 @@ STAT5206 - Fall 2022
 |2022-10-28|**Midterm (in class)**|||
 |2022-11-04|- Midterm review <br>- SQL |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |2022-11-11|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|2022-11-18|- Optimization <br>- Objective functions <br>- Bootstrap, permutation, and other simulations|- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW4 (Nov 20th, 11:59 PM)|
+|2022-11-18|- Optimization (Objective functions, Regularization) |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW4 (Nov 20th, 11:59 PM)|
 |2022-11-25|**Thanksgiving NO CLASS**|||
-|2022-12-02|**Amazing guest lecture**|||
-|2022-12-09|- Validation <br>- Model evaluation|||
-|TBD|Final|||
+|2022-12-02|**Amazing guest lecture**||- HW5 (Dec 4th, 11:59 PM)|
+|2022-12-09|- Review |||
+|2022-12-16||**Final at 7:10 PM**|||
 
 
 ## Logistics
